@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-21112025-099622";"";
+"REFERENCE";"1050170001";"";
+"TraceParts.PartTitle";"USB";"";
+"TraceParts.InstanceId";"33-21112025-09962265YH6QI3TRQU22RUMW0FIP0DA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Micro-USB B Receptacle, Bottom Mount, Surface Mount, Lead-Free, 0.60mm Tabs, TID";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";
